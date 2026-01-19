@@ -1,1 +1,1 @@
-# Data-Science_projects
+# Plant Disease Detection using Deep Learning project

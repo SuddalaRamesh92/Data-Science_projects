@@ -1,1 +1,1 @@
-# Plant Disease Detection using Deep Learning project
+# Plant Disease Classification using Deep Learning 
